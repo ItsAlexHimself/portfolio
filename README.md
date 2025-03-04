@@ -15,6 +15,9 @@ A beautiful, responsive portfolio website built with React, featuring dark mode 
 - 🖼️ Project showcase
 - 🔗 Social media integration
 
+![screencapture-localhost-3000-2025-03-04-14_10_09](https://github.com/user-attachments/assets/eee56bdf-a22b-47e1-87ae-ec5637c3c553)
+![screencapture-localhost-3000-2025-03-04-14_10_52](https://github.com/user-attachments/assets/6c419dd3-1681-4db1-88db-b2d5aa5b5640)
+
 ## Technologies Used
 
 - React.js
