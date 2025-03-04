@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+# Modern Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautiful, responsive portfolio website built with React, featuring dark mode support, smooth animations, and a modern design.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- 🌓 Dark/Light mode toggle
+- 🎨 Modern and clean design
+- 📱 Fully responsive layout
+- ✨ Smooth animations using Framer Motion
+- 🎯 Section-based navigation
+- 📝 Contact form
+- 📊 Skills visualization
+- ⏳ Experience timeline
+- 🖼️ Project showcase
+- 🔗 Social media integration
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- Framer Motion
+- Emotion (styled-components)
+- React Icons
+- CSS Variables
+- Modern CSS Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js (v14 or higher)
+- npm or yarn
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navigate to the project directory
+```bash
+cd portfolio
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
 
-### `npm run eject`
+4. Start the development server
+```bash
+npm start
+# or
+yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Customization
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Update personal information in `src/App.js`
+2. Replace placeholder images with your own
+3. Modify the color scheme in `src/App.css`
+4. Add your own projects to the `projects` array
+5. Update skills and experience in their respective arrays
+6. Add your social media links
+7. Update the contact form endpoint
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Structure
 
-## Learn More
+```
+portfolio/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   └── ProjectCard.js
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+├── package.json
+├── README.md
+└── LICENSE
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-### Code Splitting
+### What you can do:
+- Use the code for personal or non-commercial projects
+- Modify and adapt the code
+- Share the code with others
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### What you cannot do:
+- Use the code for commercial purposes without permission
+- Remove the attribution requirement
+- Claim the code as your own
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-### Making a Progressive Web App
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [React](https://reactjs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Emotion](https://emotion.sh/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-### Advanced Configuration
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **GitHub:** [itsalexhimself](https://github.com/itsalexhimself)
+- **Email:** [itsalexhimself1@protonmail.com](mailto:itsalexhimself1@protonmail.com)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/itsalexhimself/portfolio](https://github.com/itsalexhimself/portfolio-website)
