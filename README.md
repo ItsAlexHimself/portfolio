@@ -43,7 +43,7 @@ A beautiful, responsive portfolio website built with React, featuring dark mode 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/itsalexhimself/portfolio.git
 ```
 
 2. Navigate to the project directory
